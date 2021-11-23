@@ -1,0 +1,7 @@
+{
+  "name": "ethers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "antebotic <ante.botic_ext@autoscout24.com>",
+  "license": "MIT"
+}
